@@ -210,8 +210,8 @@ UPDATED: 2021-06-17
 
 **THERE HAVE BEEN NO DISCLOSURES FROM ASPIRATION ON THERE WEBSITE OR TO THEIR CUSTOMERS.**
 
-https://blog.aspiration.com/
-https://www.aspiration.com/press
-https://twitter.com/aspiration
+- https://blog.aspiration.com/
+- https://www.aspiration.com/press
+- https://twitter.com/aspiration
 
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
