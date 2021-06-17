@@ -6,6 +6,7 @@ I suspect Aspiration "Bank" has been hacked. This is a timeline and an archive o
 2. [VIDEOS](#VIDEOS)
 3. [ARTICLES](#ARTICLES)
 4. [DISCLOSURES](#DISCLOSURES)
+5. [WHERE TO REPORT FRAUD OR ISSUES](#REPORT)
 
 ## TWEETS
 @Aspiration
@@ -213,5 +214,19 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 - https://blog.aspiration.com/
 - https://www.aspiration.com/press
 - https://twitter.com/aspiration
+
+[BACK TO TOP](#Has-Aspiration-Been-Hacked)
+
+
+## REPORT
+
+1. https://www.fdic.gov/consumers/assistance/filecomplaint.html
+2. https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108
+3. https://www.federalreserve.gov/faqs/credit_12666.htm
+4. https://www.consumerfinance.gov/complaint/
+5. https://oag.ca.gov/contact/consumer-complaint-against-business-or-company
+6. https://my.aspiration.com/faq/request
+7. Aspiration Email Support: support@aspiration.com
+8. Aspiration Phone Support: +1 800 683 8529
 
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
