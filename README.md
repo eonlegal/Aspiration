@@ -235,8 +235,9 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 <https://twitter.com/etothegyyy/status/1405514353080778756>
 
 Image is of a model named Vanessa not @etothegyyy:
-- <https://www.unique.dk/female/models/vanessa-moe/>
-- <https://www.instagram.com/vanessaanela/>
+
+<https://www.unique.dk/female/models/vanessa-moe/>
+<https://www.instagram.com/vanessaanela/>
 
 ###### **[BACK TO INDEX](#index)**
 
@@ -245,7 +246,8 @@ Image is of a model named Vanessa not @etothegyyy:
 <https://twitter.com/qb_tb1989/status/1405553496007577603>
 
 The image above is of a stock photo used here:
-- <https://www.medicalnewstoday.com/articles/326507>
+
+<https://www.medicalnewstoday.com/articles/326507>
 
 ###### **[BACK TO INDEX](#index)**
 
