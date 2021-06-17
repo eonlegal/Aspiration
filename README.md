@@ -227,6 +227,6 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 5. https://oag.ca.gov/contact/consumer-complaint-against-business-or-company
 6. https://my.aspiration.com/faq/request
 7. Aspiration Email Support: support@aspiration.com
-8. Aspiration Phone Support: +1 800 683 8529
+8. Aspiration Phone Support: +1-800-683-8529
 
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
