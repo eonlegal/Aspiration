@@ -225,6 +225,8 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 ![](/images/tweets/2021-06-17_1157AM_@qb_tb1989.png)
 https://twitter.com/qb_tb1989/status/1405555229970554882
 
+[BACK TO CONTENTS](#contents)
+
 @etothegyyy
 ![](/images/tweets/2021_06_17_0915AM_@etothegyy[bot].png)
 https://twitter.com/etothegyyy/status/1405514353080778756
@@ -232,6 +234,8 @@ https://twitter.com/etothegyyy/status/1405514353080778756
 Image is of a model named Vanessa not @etothegyyy:
 - https://www.unique.dk/female/models/vanessa-moe/
 - https://www.instagram.com/vanessaanela/
+
+[BACK TO CONTENTS](#contents)
 
 @qb_tb1989
 ![](/images/tweets/2021-06-17_1150AM_@qb_tb1989.png)
