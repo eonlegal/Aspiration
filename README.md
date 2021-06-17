@@ -207,6 +207,9 @@ https://twitter.com/Renea14287180/status/1397692835198115840
 # DISCLOSURES
 
 UPDATED: 2021-06-17
-** THERE HAVE BEEN NO DISCLOSURES FROM, ASPIRATION ON THERE WEBSITE OR TO THEIR CUSTOMERS **
+**THERE HAVE BEEN NO DISCLOSURES FROM, ASPIRATION ON THERE WEBSITE OR TO THEIR CUSTOMERS.**
+https://blog.aspiration.com/
+https://www.aspiration.com/press
+https://twitter.com/aspiration
 
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
