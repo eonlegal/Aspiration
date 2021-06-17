@@ -6,7 +6,7 @@ I suspect Aspiration "Bank" has been hacked. This is a timeline and an archive o
 2. [VIDEOS](#VIDEOS)
 3. [ARTICLES](#ARTICLES)
 4. [DISCLOSURES](#DISCLOSURES)
-5. [WHERE TO REPORT FRAUD OR ISSUES](#REPORT)
+5. [REPORT FRAUD OR ISSUES](#REPORT)
 
 ## TWEETS
 @Aspiration
