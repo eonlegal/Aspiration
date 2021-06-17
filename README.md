@@ -222,7 +222,7 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 
 
 ## SPECULATION
-1. Aspiration is using bots or bots are responding on behalf of Aspiration.
+### Aspiration is using bots or bots are responding on behalf of Aspiration.
 
 @qb_tb1989
 ![](/images/tweets/2021-06-17_1157AM_@qb_tb1989.png)
