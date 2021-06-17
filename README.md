@@ -6,7 +6,8 @@ I suspect Aspiration "Bank" has been hacked. This is a timeline and an archive o
 2. [VIDEOS](#VIDEOS)
 3. [ARTICLES](#ARTICLES)
 4. [DISCLOSURES](#DISCLOSURES)
-5. [REPORT FRAUD OR ISSUES](#REPORT)
+5. [SPECULATION](#SPECULATION)
+6. [REPORT FRAUD OR ISSUES](#REPORT)
 
 ## TWEETS
 @Aspiration
@@ -217,6 +218,23 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
 
+
+## SPECULATION
+1. Aspiration is using bots or bots are repsont on behalf of Aspiration.
+@qb_tb1989
+![](/images/tweets/2021-06-17_1157AM_@qb_tb1989.png)
+https://twitter.com/qb_tb1989/status/1405555229970554882
+
+@etothegyyy
+![](/images/tweets/2021_06_17_0915AM_@etothegyy[bot].png)
+https://twitter.com/etothegyyy/status/1405514353080778756
+
+Actual Model:
+    https://www.unique.dk/female/models/vanessa-moe/
+    https://www.instagram.com/vanessaanela/
+
+
+[BACK TO TOP](#Has-Aspiration-Been-Hacked)
 
 ## REPORT
 
