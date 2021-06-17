@@ -2,12 +2,12 @@
 I suspect Aspiration "Bank" has been hacked. This documents the customer issues, Aspiration responses and disclosures(or lack-thereof).
 
 ## INDEX
-1. ##### [TWEETS](#tweets)
-2. ##### [VIDEOS](#videos)
-3. ##### [ARTICLES](#articles)
-4. ##### [DISCLOSURES](#disclosures)
-5. ##### [SPECULATION](#speculation)
-6. ##### ***[REPORT FRAUD OR ISSUES](#report)***
+1. [TWEETS](#tweets)
+2. [VIDEOS](#videos)
+3. [ARTICLES](#articles)
+4. [DISCLOSURES](#disclosures)
+5. [SPECULATION](#speculation)
+6. ***[REPORT FRAUD OR ISSUES](#report)***
 
 ## TWEETS
 @Aspiration
