@@ -229,7 +229,7 @@ https://twitter.com/qb_tb1989/status/1405555229970554882
 ![](/images/tweets/2021_06_17_0915AM_@etothegyy[bot].png)
 https://twitter.com/etothegyyy/status/1405514353080778756
 
-Actual Model:
+Image is of a model named Vanessa not @etothegyyy:
 - https://www.unique.dk/female/models/vanessa-moe/
 - https://www.instagram.com/vanessaanela/
 
