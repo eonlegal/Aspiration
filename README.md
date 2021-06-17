@@ -7,7 +7,7 @@ I suspect Aspiration "Bank" has been hacked. This is a timeline and an archive o
 3. [ARTICLES](#ARTICLES)
 4. [DISCLOSURES](#DISCLOSURES)
 
-# TWEETS
+## TWEETS
 @Aspiration
 ![](/images/tweets/2021-06-11_0114PM_@Aspiration.png)
 https://twitter.com/Aspiration/status/1403400337503920128
@@ -198,13 +198,13 @@ https://twitter.com/Renea14287180/status/1397692835198115840
 
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
 
-# VIDEOS
+## VIDEOS
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
 
-# ARTICLES
+## ARTICLES
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
 
-# DISCLOSURES
+## DISCLOSURES
 
 UPDATED: 2021-06-17 - 14:23:18 UTC
 
