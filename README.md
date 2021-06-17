@@ -250,14 +250,14 @@ The image above is of a stock photo used here:
 
 ## REPORT
 
-- https://www.fdic.gov/consumers/assistance/filecomplaint.html
-- https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108
-- https://www.federalreserve.gov/faqs/credit_12666.htm
-- https://www.consumerfinance.gov/complaint/
-- https://oag.ca.gov/contact/consumer-complaint-against-business-or-company
-- https://my.aspiration.com/faq/request
+- [FDIC](https://www.fdic.gov/consumers/assistance/filecomplaint.html)
+- [Better Business Bureau](https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108)
+- [Federal Reserve](https://www.federalreserve.gov/faqs/credit_12666.htm)
+- [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/)
+- [California Dept of Justice](https://oag.ca.gov/contact/consumer-complaint-against-business-or-company)
+- [Aspiration Support](https://my.aspiration.com/faq/request)
 
 - Aspiration Email Support: support@aspiration.com
 - Aspiration Phone Support: +1-800-683-8529
 
-### **[BACK TO INDEX](#index)**)
+### **[BACK TO INDEX](#index)**
