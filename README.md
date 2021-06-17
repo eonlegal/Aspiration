@@ -238,7 +238,7 @@ Image is of a model named Vanessa not @etothegyyy:
 https://twitter.com/qb_tb1989/status/1405553496007577603
 
 The image above is of a stock photo used here:
-- https://www.medicalnewstoday.com/articles/326507#pre-ejaculate
+- https://www.medicalnewstoday.com/articles/326507
 
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
 
