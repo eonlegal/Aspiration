@@ -256,7 +256,6 @@ The image above is of a stock photo used here:
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/)
 - [California Dept of Justice](https://oag.ca.gov/contact/consumer-complaint-against-business-or-company)
 - [Aspiration Support](https://my.aspiration.com/faq/request)
-
 - Aspiration Email Support: support@aspiration.com
 - Aspiration Phone Support: +1-800-683-8529
 
