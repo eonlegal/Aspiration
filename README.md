@@ -164,20 +164,19 @@ https://twitter.com/petebank/status/1400607308196032513
 @Renea14287180
 ![](/images/tweets/2021-05-26_0715PM_@Renea14287180.png)
 https://twitter.com/Renea14287180/status/1397692835198115840
----
-@hardkncklife1
-@goddess000729
-@yshres
-@Brachna83
-@sandy_aay
-@closingracer
+
+### Other Twitter Users
+- @hardkncklife1
+- @goddess000729
+- @yshres
+- @Brachna83
+- @sandy_aay
+- @closingracer
 
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
 
 # VIDEOS
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
-
-
 
 # ARTICLES
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
