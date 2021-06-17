@@ -30,7 +30,7 @@ I suspect Aspiration "Bank" has been hacked. This is a timeline and an archive o
 
 # TWEETS
 [BACK TO TOP](#Has-Aspiration-Been-Hacked)
-[!](/images/tweets/2021-06-11_0114PM_@Aspiration.png)
+![](/images/tweets/2021-06-11_0114PM_@Aspiration.png)
 
 
 # VIDEOS
