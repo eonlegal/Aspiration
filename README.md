@@ -2,12 +2,12 @@
 I suspect Aspiration "Bank" has been hacked. This is a timeline and an archive of the details.
 
 ## CONTENTS
-1. [TWEETS](#TWEETS)
-2. [VIDEOS](#VIDEOS)
-3. [ARTICLES](#ARTICLES)
-4. [DISCLOSURES](#DISCLOSURES)
-5. [SPECULATION](#SPECULATION)
-6. ***[REPORT FRAUD OR ISSUES](#REPORT)***
+1. [TWEETS](#tweets)
+2. [VIDEOS](#videos)
+3. [ARTICLES](#articles)
+4. [DISCLOSURES](#disclosures)
+5. [SPECULATION](#speculation)
+6. ***[REPORT FRAUD OR ISSUES](#report)***
 
 ## TWEETS
 @Aspiration
