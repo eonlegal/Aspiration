@@ -214,37 +214,38 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 
 **THERE HAVE BEEN NO DISCLOSURES FROM ASPIRATION ON THEIR WEBSITE OR TO THEIR CUSTOMERS.**
 
-- https://blog.aspiration.com/
-- https://www.aspiration.com/press
-- https://twitter.com/aspiration
+- <https://blog.aspiration.com>
+- <https://www.aspiration.com/press>
+- <https://twitter.com/aspiration>
 
 ### **[BACK TO INDEX](#index)**
 
 
 ## SPECULATION
 1. Aspiration is using bots or bots are responding on behalf of Aspiration.
+
 @qb_tb1989
 ![](/images/tweets/2021-06-17_1157AM_@qb_tb1989.png)
-https://twitter.com/qb_tb1989/status/1405555229970554882
+<https://twitter.com/qb_tb1989/status/1405555229970554882>
 
 ### **[BACK TO INDEX](#index)**
 
 @etothegyyy
 ![](/images/tweets/2021_06_17_0915AM_@etothegyy[bot].png)
-https://twitter.com/etothegyyy/status/1405514353080778756
+<https://twitter.com/etothegyyy/status/1405514353080778756>
 
 Image is of a model named Vanessa not @etothegyyy:
-- https://www.unique.dk/female/models/vanessa-moe/
-- https://www.instagram.com/vanessaanela/
+- <https://www.unique.dk/female/models/vanessa-moe/>
+- <https://www.instagram.com/vanessaanela/>
 
 ### **[BACK TO INDEX](#index)**
 
 @qb_tb1989
 ![](/images/tweets/2021-06-17_1150AM_@qb_tb1989.png)
-https://twitter.com/qb_tb1989/status/1405553496007577603
+<https://twitter.com/qb_tb1989/status/1405553496007577603>
 
 The image above is of a stock photo used here:
-- https://www.medicalnewstoday.com/articles/326507
+- <https://www.medicalnewstoday.com/articles/326507>
 
 ### **[BACK TO INDEX](#index)**
 
