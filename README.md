@@ -7,7 +7,8 @@ Sign the petition to investigate: [Change.org](https://www.change.org/aspiration
 3. [ARTICLES](#articles)
 4. [DISCLOSURES](#disclosures)
 5. [SPECULATION](#speculation)
-6. ***[REPORT FRAUD OR ISSUES](#report)***
+    - [BOTS](#bots)
+7. ***[REPORT FRAUD OR ISSUES](#report)***
 
 ## TWEETS
 @Aspiration
@@ -222,6 +223,7 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 
 
 ## SPECULATION
+### BOTS
 ### Aspiration is using bots or bots are responding on behalf of Aspiration.
 
 @qb_tb1989
