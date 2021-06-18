@@ -1,5 +1,5 @@
 # Has Aspiration Been Hacked?
-I suspect Aspiration "Bank" has been hacked. This documents the customer issues, Aspiration responses and disclosures(or lack-thereof).
+I suspect Aspiration "Bank" has been hacked. This documents the customer issues, Aspiration's responses and disclosures(or lack-thereof).
 Sign the petition to investigate: [Change.org](https://www.change.org/aspirationhack)
 ## INDEX
 1. [TWEETS](#tweets)
