@@ -191,6 +191,14 @@ Sign the petition to investigate: [Change.org](https://www.change.org/aspiration
 ![](/images/tweets/2021-05-26_0715PM_@Renea14287180.png)
 <https://twitter.com/Renea14287180/status/1397692835198115840>
 
+@MrBurns_here
+![](/images/tweets/2021-06-18_1259PM_@MrBurns_here.png)
+<https://twitter.com/MrBurns_here/status/1405933128439508994>
+![](/images/tweets/2021-06-18_0107PM_@Aspiration.png)
+<https://twitter.com/Aspiration/status/1405935166371991554>
+![](/images/tweets/2021-06-18_0134PM_@MrBurns_here.png)
+<https://twitter.com/MrBurns_here/status/1405942123183198209>
+
 ### Other Twitter Users
 - @hardkncklife1
 - @goddess000729
