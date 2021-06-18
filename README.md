@@ -1,6 +1,6 @@
 # Has Aspiration Been Hacked?
 I suspect Aspiration "Bank" has been hacked. This documents the customer issues, Aspiration responses and disclosures(or lack-thereof).
-
+Sign the petition to investigate: [Change.org](https://www.change.org/aspirationhack)
 ## INDEX
 1. [TWEETS](#tweets)
 2. [VIDEOS](#videos)
@@ -252,7 +252,7 @@ The image above is of a stock photo used here:
 ###### **[BACK TO INDEX](#index)**
 
 ## REPORT
-- [Change.org](http://chng.it/56VvkDyW2G)
+- [Change.org](https://www.change.org/aspirationhack)
 - [FDIC](https://www.fdic.gov/consumers/assistance/filecomplaint.html)
 - [Better Business Bureau](https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108)
 - [Federal Reserve](https://www.federalreserve.gov/faqs/credit_12666.htm)
