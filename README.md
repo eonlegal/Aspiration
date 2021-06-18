@@ -199,6 +199,8 @@ Sign the petition to investigate: [Change.org](https://www.change.org/aspiration
 ![](/images/tweets/2021-06-18_0134PM_@MrBurns_here.png)
 <https://twitter.com/MrBurns_here/status/1405942123183198209>
 
+###### **[BACK TO INDEX](#index)**
+
 ### Other Twitter Users
 - @hardkncklife1
 - @goddess000729
