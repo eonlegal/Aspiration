@@ -209,6 +209,10 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 <https://twitter.com/NickLaparra/status/1406265574817153024>
 ![](/images/tweets/2021_06_19_0311PM_@NickLaparra.png)
 <https://twitter.com/NickLaparra/status/1406328681887326208>
+![](/images/tweets/2021-06-19_0455PM_@AndreiCherny.png)
+<https://twitter.com/AndreiCherny/status/1406355016248528897>
+![](/images/tweets/2021_06_19_0501PM_@NickLaparra.png)
+<https://twitter.com/NickLaparra/status/1406356365107412993>
 
 ###### **[BACK TO INDEX](#index)**
 
