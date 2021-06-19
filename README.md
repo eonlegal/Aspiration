@@ -271,9 +271,13 @@ The image above is of a stock photo used here:
 ![](/images/tweets/2021_06_18_1112PM_@koolywater[hackers].png)
 <https://twitter.com/koolywater/status/1406087533276975107>
 
+###### **[BACK TO INDEX](#index)**
+
 @La_n0te
 ![](/images/tweets/2021_06_18_1111PM_@La_n0te[hackers].png)
 <https://twitter.com/La_n0te/status/1406087135946498049>
+
+###### **[BACK TO INDEX](#index)**
 
 ## REPORT
 - [Change.org](https://www.change.org/aspirationhack)
