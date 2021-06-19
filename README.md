@@ -18,6 +18,16 @@ If you have been affected, sign the petition to investigate at [change.org](http
 
 ###### **[BACK TO INDEX](#index)**
 
+@jeffmcc1
+![](/images/tweets/2021-06-11_0105PM_@jeffmcc1.png)
+<https://twitter.com/jeffmcc1/status/1403398116540354569>
+![](/images/tweets/2021-06-14_0348PM_@jeffmcc1.png)
+<https://twitter.com/jeffmcc1/status/1404526294545612813>
+![](/images/tweets/2021-06-15_1234PM_@jeffmcc1.png)
+<https://twitter.com/jeffmcc1/status/1404839725509361667>
+
+###### **[BACK TO INDEX](#index)**
+
 @Heryourmiii
 ![](/images/tweets/2021-06-11_0158AM_@Heryourmiii.png)
 <https://twitter.com/Heryourmiii/status/1403230244371324929>
@@ -51,16 +61,6 @@ If you have been affected, sign the petition to investigate at [change.org](http
 <https://twitter.com/_longliveaj/status/1404823067822641152>
 ![](/images/tweets/2021-06-19_1120AM_@_longliveaj.png)
 https://twitter.com/_longliveaj/status/1406270675975815169
-
-###### **[BACK TO INDEX](#index)**
-
-@jeffmcc1
-![](/images/tweets/2021-06-11_0105PM_@jeffmcc1.png)
-<https://twitter.com/jeffmcc1/status/1403398116540354569>
-![](/images/tweets/2021-06-14_0348PM_@jeffmcc1.png)
-<https://twitter.com/jeffmcc1/status/1404526294545612813>
-![](/images/tweets/2021-06-15_1234PM_@jeffmcc1.png)
-<https://twitter.com/jeffmcc1/status/1404839725509361667>
 
 ###### **[BACK TO INDEX](#index)**
 
