@@ -49,6 +49,8 @@ If you have been affected, sign the petition to investigate at [change.org](http
 <https://twitter.com/_longliveaj/status/1371902632541884416>
 ![](/images/tweets/2021-06-15_1128AM_@_longliveaj.png)
 <https://twitter.com/_longliveaj/status/1404823067822641152>
+![](/images/tweets/2021-06-19_1120AM_@_longliveaj.png)
+https://twitter.com/_longliveaj/status/1406270675975815169
 
 ###### **[BACK TO INDEX](#index)**
 
@@ -199,6 +201,14 @@ If you have been affected, sign the petition to investigate at [change.org](http
 <https://twitter.com/Aspiration/status/1405935166371991554>
 ![](/images/tweets/2021-06-18_0134PM_@MrBurns_here.png)
 <https://twitter.com/MrBurns_here/status/1405942123183198209>
+
+###### **[BACK TO INDEX](#index)**
+
+@NickLaparra
+![](/images/tweets/2021_06_19_1100AM_@NickLaparra.png)
+<https://twitter.com/NickLaparra/status/1406265574817153024>
+![](/images/tweets/2021_06_19_0311PM_@NickLaparra.png)
+<https://twitter.com/NickLaparra/status/1406328681887326208>
 
 ###### **[BACK TO INDEX](#index)**
 
