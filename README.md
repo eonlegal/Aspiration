@@ -8,6 +8,7 @@ Sign the petition to investigate: [Change.org](https://www.change.org/aspiration
 4. [DISCLOSURES](#disclosures)
 5. [SPECULATION](#speculation)
     - [BOTS](#bots)
+    - ["HACKERS and HELPERS"](#hackers)
 7. ***[REPORT FRAUD OR ISSUES](#report)***
 
 ## TWEETS
@@ -262,6 +263,17 @@ The image above is of a stock photo used here:
 <https://www.medicalnewstoday.com/articles/326507>
 
 ###### **[BACK TO INDEX](#index)**
+
+### HACKERS
+### Some users on twitter are directing customers to "hackers" that may recover locked accounts or funds.
+
+@koolywater
+![](/images/tweets/2021_06_18_1112PM_@koolywater[hackers].png)
+<https://twitter.com/koolywater/status/1406087533276975107>
+
+@La_n0te
+![](/images/tweets/2021_06_18_1111PM_@La_n0te[hackers].png)
+<https://twitter.com/La_n0te/status/1406087135946498049>
 
 ## REPORT
 - [Change.org](https://www.change.org/aspirationhack)
