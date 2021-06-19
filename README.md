@@ -4,7 +4,7 @@ If you have been affected, sign the petition to investigate at [change.org](http
 ## INDEX
 1. [TWEETS](#tweets)
 2. [VIDEOS](#videos)
-3. [ARTICLES](#articles)
+3. [NEWS COVERAGE](#articles)
 4. [DISCLOSURES](#disclosures)
 5. [SPECULATION](#speculation)
     - [BOTS](#bots)
