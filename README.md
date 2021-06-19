@@ -4,7 +4,7 @@ If you have been affected, sign the petition to investigate at [change.org](http
 ## INDEX
 1. [TWEETS](#tweets)
 2. [VIDEOS](#videos)
-3. [NEWS COVERAGE](#articles)
+3. [NEWS COVERAGE](#news)
 4. [DISCLOSURES](#disclosures)
 5. [SPECULATION](#speculation)
     - [BOTS](#bots)
@@ -226,7 +226,7 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 ***NOTHING YET***
 ###### **[BACK TO INDEX](#index)**
 
-## ARTICLES
+## NEWS
 ***NOTHING YET***
 ###### **[BACK TO INDEX](#index)**
 
