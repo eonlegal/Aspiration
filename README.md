@@ -16,7 +16,7 @@ If you have been affected, sign the petition to investigate at [change.org](http
 ![](/images/tweets/2021-06-11_0114PM_@Aspiration.png)
 <https://twitter.com/Aspiration/status/1403400337503920128>
 
-###### **[BACK TO INDEX](#index)**
+###### **[BACK TO INDEX](#has-aspiration-been-hacked?)**
 
 @jeffmcc1
 ![](/images/tweets/2021-06-11_0105PM_@jeffmcc1.png)
