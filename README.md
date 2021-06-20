@@ -1,6 +1,6 @@
 ## Has Aspiration Been Hacked?
 I suspect Aspiration "Bank" has been hacked. This documents the customer issues, Aspiration's responses and disclosures(or lack-thereof).
-If you have been affected, sign the petition to investigate at [change.org](https://www.change.org/aspirationhack), report to [Aspiration](#report), or other [agencies](#report). 
+If you have been affected, sign the petition to investigate at [change.org](https://www.change.org/aspirationhack), report to [Aspiration](#report), or other [agencies](#report).
 ## INDEX
 1. [TWEETS](#tweets)
 2. [VIDEOS](#videos)
@@ -16,7 +16,7 @@ If you have been affected, sign the petition to investigate at [change.org](http
 ![](/images/tweets/2021-06-11_0114PM_@Aspiration.png)
 <https://twitter.com/Aspiration/status/1403400337503920128>
 
-###### **[BACK TO INDEX](#has)**
+###### **[BACK TO INDEX](#index)**
 
 @jeffmcc1
 ![](/images/tweets/2021-06-11_0105PM_@jeffmcc1.png)
