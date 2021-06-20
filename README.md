@@ -312,4 +312,4 @@ The image above is of a stock photo used here:
 
 ###### **[BACK TO INDEX](#index)**
 
-##### *_All data on available on: [Github](https://github.com/eonlegal/Aspiration)_*
+##### *All data on available on: [Github](https://github.com/eonlegal/Aspiration)*
