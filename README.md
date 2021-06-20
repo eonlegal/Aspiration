@@ -1,6 +1,6 @@
 ## Has Aspiration Been Hacked?
 I suspect Aspiration "Bank" has been hacked. This documents the customer issues, Aspiration's responses and disclosures(or lack-thereof).
-If you have been affected, sign the petition to investigate at [change.org](https://www.change.org/aspirationhack), report to [Aspiration](#report), or other [agencies](#report).
+If you have been affected, sign the petition to investigate at [change.org](https://www.change.org/aspirationhack), report to [Aspiration](#report), or other [agencies](#report). 
 ## INDEX
 1. [TWEETS](#tweets)
 2. [VIDEOS](#videos)
@@ -311,3 +311,5 @@ The image above is of a stock photo used here:
 - Aspiration Phone Support: +1-800-683-8529
 
 ###### **[BACK TO INDEX](#index)**
+
+##### *_All data on available on: [Github](https://github.com/eonlegal/Aspiration)_*
