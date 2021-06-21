@@ -329,3 +329,7 @@ The image above is of a stock photo used here:
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
 ##### *All data available on: [Github](https://github.com/eonlegal/Aspiration)*
+
+
+
+####### TAGS: aspiration, aspiration bank, hack, disclosure, news, fraud, banking, data, data breach
