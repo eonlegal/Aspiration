@@ -202,6 +202,8 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 <https://twitter.com/Aspiration/status/1405935166371991554>
 ![](/images/tweets/2021-06-18_0134PM_@MrBurns_here.png)
 <https://twitter.com/MrBurns_here/status/1405942123183198209>
+![](/images/tweets/2021-06-21_1055AM_@MrBurns_here.png)
+<https://twitter.com/MrBurns_here/status/1406989120568709120>
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
