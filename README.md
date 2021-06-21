@@ -249,6 +249,19 @@ UPDATED: 2021-06-17 - 14:23:18 UTC
 
 
 ## SPECULATION
+### PREFERENTIAL TREATMENT
+### Customers with more Twitter followers or exposure are getting better help
+
+@NickLaparra
+![](/images/tweets/2021_06_20_0156PM_@NickLaparra[preferential-treatment].png)
+<https://twitter.com/NickLaparra/status/1406672198824304640>
+
+@qb_tb1989
+![](/images/tweets/2021_06_20_1031PM_@qb_tb1989[preferential-treatment].png)
+<https://twitter.com/qb_tb1989/status/1406801972129370118>
+
+###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
+
 ### BOTS
 ### Aspiration is using bots or bots are responding on behalf of Aspiration.
 
