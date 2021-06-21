@@ -7,8 +7,9 @@ If you have been affected, sign the petition to investigate at [change.org](http
 3. [ARTICLES](#news)
 4. [DISCLOSURES](#disclosures)
 5. [SPECULATION](#speculation)
+    - [PREFERENTIAL TREATMENT](#preferential-treatment)
     - [BOTS](#bots)
-    - ["HACKERS and HELPERS"](#hackers)
+    - ["HACKERS and HELPERS"](#hackers-and-helpers)
 7. ***[REPORT FRAUD OR ISSUES](#report)***
 
 ## TWEETS
@@ -278,7 +279,7 @@ The image above is of a stock photo used here:
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
-### HACKERS
+### HACKERS AND HELPERS
 ### Some users on twitter are directing customers to "hackers" that may recover locked accounts or funds.
 
 @koolywater
