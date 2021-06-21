@@ -332,4 +332,4 @@ The image above is of a stock photo used here:
 
 
 
-###### TAGS: aspiration, aspiration bank, hack, disclosure, news, fraud, banking, data, data breach, investigation, help, fdic, change.org, bbb, better business bureau, federal reserver, california department of justice, aspiration.com, support@aspiration.com
+###### TAGS: aspiration, aspiration bank, hack, disclosure, news, fraud, banking, data, data breach, investigation, help, fdic, change.org, bbb, better business bureau, federal reserver, california department of justice, aspiration.com, support@aspiration.com, consumer financial protection bureau
