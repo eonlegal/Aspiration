@@ -195,6 +195,9 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 ![](/images/tweets/2021-05-26_0715PM_@Renea14287180.png)
 <https://twitter.com/Renea14287180/status/1397692835198115840>
 
+
+###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
+
 @MrBurns_here
 ![](/images/tweets/2021-06-18_1259PM_@MrBurns_here.png)
 <https://twitter.com/MrBurns_here/status/1405933128439508994>
@@ -222,6 +225,8 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 @JessWynn6
 ![](/images/tweets/2021_06_22_0123PM_@JessWynn6.png)
 <https://twitter.com/JessWynn6/status/1407388673826562050>
+
+###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
 @JessWynn6
 ![](/images/tweets/2021_06_22_1104AM_@johnnyballen.png)
