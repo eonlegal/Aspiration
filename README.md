@@ -217,6 +217,10 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 ![](/images/tweets/2021_06_19_0501PM_@NickLaparra.png)
 <https://twitter.com/NickLaparra/status/1406356365107412993>
 
+@JessWynn6
+![](/images/tweets/2021_06_22_0123PM_@JessWynn6.png)
+<https://twitter.com/JessWynn6/status/1407388673826562050>
+
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
 ### Other Twitter Users
@@ -248,7 +252,6 @@ UPDATED: 2021-06-21 - 15:12:10 UTC
 - <https://twitter.com/aspiration>
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
-
 
 ## SPECULATION
 ### PREFERENTIAL TREATMENT
