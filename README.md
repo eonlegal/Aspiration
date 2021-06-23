@@ -217,9 +217,17 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 ![](/images/tweets/2021_06_19_0501PM_@NickLaparra.png)
 <https://twitter.com/NickLaparra/status/1406356365107412993>
 
+###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
+
 @JessWynn6
 ![](/images/tweets/2021_06_22_0123PM_@JessWynn6.png)
 <https://twitter.com/JessWynn6/status/1407388673826562050>
+
+@JessWynn6
+![](/images/tweets/2021_06_22_1104AM_@johnnyballen.png)
+<https://twitter.com/johnnyballen/status/1407353783655481346>
+![](/images/tweets/2021_06_22_1108AM_@johnnyballen.png)
+<https://twitter.com/johnnyballen/status/1407354691378372626>
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
