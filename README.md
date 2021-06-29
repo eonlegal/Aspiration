@@ -236,6 +236,14 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
+@JessicaMauerhan
+![](/images/tweets/2021_06_28_1235AM_@JessicaMauerhan.png)
+<https://twitter.com/JessicaMauerhan/status/1409369801160601601>
+![](/images/tweets/2021_06_28_1235AM2_@JessicaMauerhan.png)
+<https://twitter.com/JessicaMauerhan/status/1409369803912065027>
+
+###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
+
 ### Other Twitter Users
 - @hardkncklife1
 - @goddess000729
