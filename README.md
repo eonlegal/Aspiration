@@ -262,8 +262,7 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 
 ## ARTICLES
 
-Kassandra Terbeek - Premier Technical Engineer at Adobe
-[LinkedIN Article](https://www.linkedin.com/posts/kterbeek_databreach-boycottaspiration-aspirationstolemymoney-activity-6815375335023095808-NdI_)
+[Kassandra Terbeek - Premier Technical Engineer at Adobe - LinkedIN Post](https://www.linkedin.com/posts/kterbeek_databreach-boycottaspiration-aspirationstolemymoney-activity-6815375335023095808-NdI_)
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
