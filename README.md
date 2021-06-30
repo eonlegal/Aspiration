@@ -4,7 +4,7 @@ If you have been affected, sign the petition to investigate at [change.org](http
 ## INDEX
 1. [TWEETS](#tweets)
 2. [VIDEOS](#videos)
-3. [ARTICLES](#news)
+3. [ARTICLES](#articles)
 4. [DISCLOSURES](#disclosures)
 5. [SPECULATION](#speculation)
     - [PREFERENTIAL TREATMENT](#preferential-treatment)
@@ -260,8 +260,11 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 ***NOTHING YET***
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
-## NEWS
-***NOTHING YET***
+## ARTICLES
+
+Kassandra Terbeek - Premier Technical Engineer at Adobe
+[LinkedIN Article](https://www.linkedin.com/posts/kterbeek_databreach-boycottaspiration-aspirationstolemymoney-activity-6815375335023095808-NdI_)
+
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
 ## DISCLOSURES
