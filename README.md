@@ -1,6 +1,5 @@
 ## Has Aspiration Been Hacked?
-Data collected on Aspiration "Bank" hack or data-breach. This documents the customer issues, Aspiration's responses and disclosures(or lack-thereof).
-If you have been affected, sign the petition to investigate at [change.org](https://www.change.org/aspirationhack), report to [Aspiration](#report), or other [agencies](#report).
+Data collected on Aspiration Financial LLC hack or data-breach. This documents the customer issues, Aspiration's responses and disclosures(or lack-thereof). If you have been affected, sign the petition to investigate at [change.org](https://www.change.org/aspirationhack), report to [Aspiration](#report), or other [agencies](#report).
 ## INDEX
 1. [TWEETS](#tweets)
 2. [VIDEOS](#videos)
@@ -369,4 +368,4 @@ The image above is of a stock photo used here:
 
 
 
-###### TAGS: aspiration, aspiration hack, aspiration bank, aspiration bank hack, hack, disclosure, news, fraud, banking, data, data breach, investigation, help, fdic, change.org, bbb, better business bureau, federal reserve, california department of justice, aspiration.com, support@aspiration.com, consumer financial protection bureau
+###### TAGS: aspiration financial llc, aspiration financial hack, aspiration, aspiration hack, aspiration bank, aspiration bank hack, hack, disclosure, news, fraud, banking, data, data breach, investigation, help, fdic, change.org, bbb, better business bureau, federal reserve, california department of justice, aspiration.com, support@aspiration.com, consumer financial protection bureau
