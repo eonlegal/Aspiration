@@ -1,4 +1,4 @@
-## Has Aspiration Been Hacked?
+## Has Aspiration Financial LLC Been Hacked?
 Data collected on Aspiration Financial LLC hack or data-breach. This documents the customer issues, Aspiration's responses and disclosures(or lack-thereof). If you have been affected, sign the petition to investigate at [change.org](https://www.change.org/aspirationhack), report to [Aspiration](#report), or other [agencies](#report).
 ## INDEX
 1. [TWEETS](#tweets)
