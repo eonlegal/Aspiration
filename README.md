@@ -263,10 +263,10 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 ## ARTICLES
 
 ###
-Kassandra Terbeek LinkedIN Post
-[Original](https://www.linkedin.com/posts/kterbeek_databreach-boycottaspiration-aspirationstolemymoney-activity-6815375335023095808-NdI_)
-
-[Backup](https://www.linkedin.com/posts/kterbeek_databreach-boycottaspiration-aspirationstolemymoney-activity-6815375335023095808-NdI_)
+Kassandra Terbeek - LinkedIN Post
+- [Original](https://www.linkedin.com/posts/kterbeek_databreach-boycottaspiration-aspirationstolemymoney-activity-6815375335023095808-NdI_)
+- [Backup 01](http://archive.today/1XFv4)
+- [Backup 02](http://archive.today/1XFv4)
 
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
