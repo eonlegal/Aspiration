@@ -243,6 +243,10 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 ![](/images/tweets/2021_06_28_1235AM2_@JessicaMauerhan.png)
 <https://twitter.com/JessicaMauerhan/status/1409369803912065027>
 
+@qb_tb1989
+![](/images/tweets/2021-06-30_0258PM_@qb_tb1989.png)
+<https://twitter.com/qb_tb1989/status/1410251307252916226>
+
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
 ### Other Twitter Users
