@@ -366,10 +366,12 @@ The image above is of a stock photo used here:
 ## REPORT
 - [Change.org](https://www.change.org/aspirationhack)
 - [FDIC](https://www.fdic.gov/consumers/assistance/filecomplaint.html)
-- [Better Business Bureau](https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108)
+- [Better Business Bureau](https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108/complaints)
 - [Federal Reserve](https://www.federalreserve.gov/faqs/credit_12666.htm)
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/complaint/)
 - [California Dept of Justice](https://oag.ca.gov/contact/consumer-complaint-against-business-or-company)
+- [Trust Pilot](https://www.trustpilot.com/review/aspiration.com)
+- [Deposit Accounts](https://www.depositaccounts.com/banks/reviews/aspiration.html)
 - [Aspiration Support](https://my.aspiration.com/faq/request)
 - Aspiration Email Support: support@aspiration.com
 - Aspiration Phone Support: +1-800-683-8529
