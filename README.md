@@ -276,6 +276,8 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 - [Backup URL - archive.org](http://archive.today/ZGkKR)
 - [Attachment](/documents/2021-06-04_data_breach_email_montanadoj.pdf)
 
+### [Something Similar Happening with Chime Bank](https://www.propublica.org/article/chime)
+
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
 ## DISCLOSURES
