@@ -278,11 +278,17 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 
 ### [Something Similar Happening with Chime Bank](https://www.propublica.org/article/chime)
 
+### [Better Business Bureau Complaints](https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108/complaints)
+
+### [Trust Pilot Complaints](https://www.trustpilot.com/review/aspiration.com)
+
+### [Deposit Account Complaints](https://www.depositaccounts.com/banks/reviews/aspiration.html)
+
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
 ## DISCLOSURES
 
-UPDATED: 2021-06-29 - 21:45:29 UTC
+UPDATED: 2021-07-07 - 21:01:04 UTC
 
 **THERE HAVE BEEN NO DISCLOSURES FROM ASPIRATION ON THEIR WEBSITE OR TO THEIR CUSTOMERS.**
 
