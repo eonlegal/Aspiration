@@ -284,6 +284,11 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 - [Backup URL - archive.org](https://web.archive.org/web/20210719205210/https://www.mass.gov/doc/data-breach-report-2021/download)
 - [Attachment](/documents/2021-07-14_Data_Breach_Web_Report_mass.pdf)
 
+### [Maine Office of the AG: Consumer Protection: Privacy, Identity Theft, and Data Security Breaches](https://www.maine.gov/ag/consumer/identity_theft/index.shtml)
+- [Original](https://apps.web.maine.gov/online/aeviewer/ME/40/1b10ead4-d6f7-44c1-adf1-b5a585964e03.shtml)
+- [Backup URL - archive.is](https://archive.is/xOEjl)
+- [Backup URL - archive.org](https://web.archive.org/web/20210719211450/https://apps.web.maine.gov/online/aeviewer/ME/40/1b10ead4-d6f7-44c1-adf1-b5a585964e03.shtml)
+
 ### [Something Similar Happening with Chime Bank](https://www.propublica.org/article/chime)
 
 ### [Better Business Bureau Complaints](https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108/complaints)
