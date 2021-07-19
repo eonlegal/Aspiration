@@ -295,6 +295,12 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 - [Backup URL - archive.is](https://archive.is/xOEjl)
 - [Backup URL - archive.org](https://web.archive.org/web/20210719211450/https://apps.web.maine.gov/online/aeviewer/ME/40/1b10ead4-d6f7-44c1-adf1-b5a585964e03.shtml)
 
+### [New Hampshire Department of Justice](https://www.doj.nh.gov/consumer/security-breaches/a.htm)
+- [Original](https://www.doj.nh.gov/consumer/security-breaches/documents/aspiration-20210625.pdf)
+- [Backup URL - archive.is](https://archive.is/F6psH)
+- [Backup URL - archive.org](https://web.archive.org/web/20210719212557/https://www.doj.nh.gov/consumer/security-breaches/documents/aspiration-20210625.pdf)
+- [Attachment](/documents/2021-06_25_nh_aspiration-20210625.pdf)
+
 ### [Something Similar Happening with Chime Bank](https://www.propublica.org/article/chime)
 
 ### [Better Business Bureau Complaints](https://www.bbb.org/us/ca/marina-del-rey/profile/financial-services/aspiration-1216-420108/complaints)
