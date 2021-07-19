@@ -274,9 +274,15 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 
 ### [Montana Department of Justice Reported Data Breach Incidents](https://dojmt.gov/consumer/databreach/)
 - [Original](https://media.dojmt.gov/wp-content/uploads/aspSamp.pdf)
-- [Backup URL - archive.is](https://web.archive.org/web/20210630160509/https://media.dojmt.gov/wp-content/uploads/aspSamp.pdf)
+- [Backup URL - archive.is](https://archive.is/ZGkKR)
 - [Backup URL - archive.org](http://archive.today/ZGkKR)
 - [Attachment](/documents/2021-06-04_data_breach_email_montanadoj.pdf)
+
+### [Massechusetts Office of Consumer Affairs and Business Regulation](https://www.mass.gov/doc/data-breach-report-2021/download)
+- [Original](https://www.mass.gov/doc/data-breach-report-2021/download)
+- [Backup URL - archive.is](https://archive.is/6MKqB)
+- [Backup URL - archive.org](https://web.archive.org/web/20210719205210/https://www.mass.gov/doc/data-breach-report-2021/download)
+- [Attachment](/documents/Data Breach Web Report 7.14.2021_0.pdf)
 
 ### [Something Similar Happening with Chime Bank](https://www.propublica.org/article/chime)
 
