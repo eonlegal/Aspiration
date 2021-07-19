@@ -282,7 +282,7 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 - [Original](https://www.mass.gov/doc/data-breach-report-2021/download)
 - [Backup URL - archive.is](https://archive.is/6MKqB)
 - [Backup URL - archive.org](https://web.archive.org/web/20210719205210/https://www.mass.gov/doc/data-breach-report-2021/download)
-- [Attachment](/documents/2021-07-14_Data_Breach_Web Report_mass.pdf)
+- [Attachment](/documents/2021-07-14_Data_Breach_Web_Report_mass.pdf)
 
 ### [Something Similar Happening with Chime Bank](https://www.propublica.org/article/chime)
 
