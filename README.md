@@ -261,6 +261,28 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
+@blueprincess709
+![](/images/tweets/2021_07_11_0411PM_@blueprincess709.png)
+<https://twitter.com/blueprincess709/status/1414135304617873409>
+
+@blueprincess709
+![](/images/tweets/2021_07_11_0413PM_@blueprincess709.png)
+<https://twitter.com/blueprincess709/status/1414135634877366275>
+
+@blueprincess709
+![](/images/tweets/2021_07_11_0414PM_@blueprincess709.png)
+<https://twitter.com/blueprincess709/status/1414136122867867654>
+
+@blueprincess709
+![](/images/tweets/2021_07_11_0418PM_@blueprincess709.png)
+<https://twitter.com/blueprincess709/status/1414136948499828740>
+
+@blueprincess709
+![](/images/tweets/2021_07_11_0847PM_@blueprincess709.png)
+<https://twitter.com/blueprincess709/status/1414385905280954371>
+
+###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
+
 ## VIDEOS
 ***NOTHING YET***
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
