@@ -283,6 +283,12 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
+@oceansoulgrl9
+![](2021_08_18_0732PM_@oceansoulgrl9.png)
+<https://twitter.com/oceansoulgrl/status/1428137881600761862>
+
+###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
+
 ## VIDEOS
 ***NOTHING YET***
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
