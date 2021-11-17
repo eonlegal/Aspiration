@@ -304,6 +304,10 @@ https://twitter.com/_longliveaj/status/1406270675975815169
 ###### **[BACK TO INDEX](#has-aspiration-been-hacked)**
 
 ## ARTICLES
+### ProPublica - The Celebrity-Backed Green “Fintech” Company That Isn’t as Green as It Seems 2021-11-17 5am
+- [Original URL](https://www.propublica.org/article/the-celebrity-backed-green-fintech-company-that-isnt-as-green-as-it-seems)
+- [Backup URL - archive.is](https://archive.md/zVBVi)
+- [Backup URL - archive.org](https://web.archive.org/web/20211117154827/https://www.propublica.org/article/the-celebrity-backed-green-fintech-company-that-isnt-as-green-as-it-seems)
 
 ### [Kassandra T.](https://twitter.com/kamterbeek) - LinkedIN Post
 - [Original URL](https://www.linkedin.com/posts/kterbeek_databreach-boycottaspiration-aspirationstolemymoney-activity-6815375335023095808-NdI_)
